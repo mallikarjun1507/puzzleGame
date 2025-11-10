@@ -51,3 +51,5 @@ npx expo prebuild --clean
 eas build -p android --profile preview
 
 apk link - https://expo.dev/accounts/mallikarjun09/projects/NumberPuzzle/builds/bf9829c8-8645-40ef-ba2e-55b259a354fe
+
+demo link - https://drive.google.com/file/d/1XZDmLI7nLvuKbRJKo0uGaP2mtoNtAx_8/view?usp=drivesdk
