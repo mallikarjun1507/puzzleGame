@@ -17,7 +17,7 @@ Players can swipe, merge, and match numbers to reach higher scores — inspired 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|-------------|
@@ -30,11 +30,11 @@ Players can swipe, merge, and match numbers to reach higher scores — inspired 
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1️. Clone the Repository
 ```bash
-git clone https://github.com/mallikarjun09/NumberPuzzle.git
+git clone https://github.com/mallikarjun1507/puzzleGame.git
 cd NumberPuzzle
 
 
