@@ -1,0 +1,30 @@
+// src/constants/colors.ts
+export const colors = {
+  bgTop: '#2b004c',           
+  bgBottom: '#19001f',
+  panel: '#22102b',
+  neon: '#ffd54f',
+  headerText: '#f4e6ff',
+  textLight: '#ffffff',
+  invalidFlash: '#ff4d4d',
+  wave: '#6ee7b7',
+  shadow: 'rgba(0,0,0,0.6)',
+  tileDefault: '#3a2540',
+  tileMuted: '#2b1b2b',
+  tileTextDark: '#1d0b2a',
+  gridBackground: '#2a2a38',
+ 
+  tiles: {
+    1: '#f7efe6',
+    2: '#f2d2b6',
+    3: '#f0b58a',
+    4: '#f59563',
+    5: '#f67c5f',
+    6: '#f65e3b',
+    7: '#f28b6b',
+    8: '#ff8a65',
+    9: '#ff7043',
+    10: '#e6e6e6',
+    default: '#3b3b3b',
+  },
+};
